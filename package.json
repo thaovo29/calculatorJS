@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaovo29/calculatorJS.git"
+  },
+  "author": "thaovo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaovo29/calculatorJS/issues"
+  },
+  "homepage": "https://github.com/thaovo29/calculatorJS#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
